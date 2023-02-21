@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Classes\3rd Year\Design Patterns\projInitial\.metadata\.plugins\org.eclipse.jdt.core
+1704580403.index
+2219970462.index
+1865797976.index
